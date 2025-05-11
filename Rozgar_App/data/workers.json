@@ -1,0 +1,26 @@
+[
+    {
+        "name": "shakespear",
+        "skill": "writer",
+        "city": "karachi",
+        "contact": "03153214516"
+    },
+    {
+        "name": "aisha",
+        "skill": " Frontend developer",
+        "city": "karachi",
+        "contact": "03153214516"
+    },
+    {
+        "name": "simba",
+        "skill": "designer",
+        "city": "lahore",
+        "contact": "03225645810"
+    },
+    {
+        "name": "Einstien",
+        "skill": "Tailor",
+        "city": "lahore",
+        "contact": "0001234568"
+    }
+]
