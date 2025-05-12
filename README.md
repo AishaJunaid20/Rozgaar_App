@@ -45,11 +45,6 @@ This encapsulation of logic ensures code **reusability**, **clean structure**, a
 4. Data is saved in `data/workers.json`.
 
 
-## 🌐 Streamlit Deployment
-
-🔗 [Click here to use the live app](https://your-streamlit-app-link-here)
-
-
 🤝 Author
 Made by Aisha Junaid to empower skilled workers across Pakistan 🌟
 Proudly built with ❤️ and Python.
